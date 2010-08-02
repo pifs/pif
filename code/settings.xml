@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<General_Properties>
+        <rotationAngle value="0" />
+        <rotationAngleType value="path" />
+        <thumbWidth value="111.42684" />
+        <thumbHeight value="91.263888" />
+        <radiusX value="230" />
+        <radiusY value="0" />
+        <centerX value="300" />
+        <centerY value="50" />
+        <perspective value="50" />
+        <useBlur value="false" />
+        <blurIntensity value="6" />
+        <useAlpha value="true" />
+        <alphaIntensity value="9" />
+        <backgroundColor value="0" />
+        <carouselWidth value="620" />
+        <carouselHeight value="130" />
+        <showCenteredImage value="true" />
+        <centeredImageAlpha value="50" />
+        <imagesXML value="images.xml" />
+</General_Properties>
+<Rotation_Properties>
+        <rotateOnRollOver value="both" />
+        <onRollOverSpeed value="25" />
+        <onRollOutSpeed value="5" />
+        <stoppingSpeed value="11" />
+        <inverseRotation value="none" />
+        <stopOnRollOver value="false" />
+        <buttonsX value="70" />
+        <buttonsY value="220" />
+        <buttonsDistance value="10" />
+        <buttonSymbol value="but1" />
+</Rotation_Properties>
+<Reflection_Properties>
+        <useReflection value="true" />
+        <reflectionAlpha value="0" />
+        <reflectionSpread value="0" />
+        <reflectionDistance value="0" />
+</Reflection_Properties>
+<Roll_Over_Properties>
+        <rollOverBehavior value="smooth" />
+        <brightnessOver value="45" />
+        <brightnessOut value="-25" />
+        <brightnessSpeed value="7" />
+</Roll_Over_Properties>
+<Tooltip_Properties>
+        <visibility value="frontmost" />
+        <position value="bottom" />
+        <appearance value="bottom" />
+        <backColor value="#FFFFFF" />
+        <backAlpha value="25" />
+        <cornerRadius value="3" />
+        <easingFunction value="Regular" />
+        <easingDuration value="0.5" />
+        <fontFace value="Verdana" />
+        <fontSize value="12" />
+        <fontColor value="#FFFFFF" />
+</Tooltip_Properties>
+<Frame_Properties>
+        <imageFrames value="selected" />
+        <frameThickness value="4" />
+        <frameColor value="#333333" />
+        <frameAlpha value="70" />
+</Frame_Properties>
